@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## 说明
 
@@ -15,6 +15,6 @@ dynamic 确保 TelegramProvider 只在客户端加载，避免服务端报错（
 
 
 
-
-
+# --
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
